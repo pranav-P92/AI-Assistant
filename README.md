@@ -4,7 +4,7 @@ The AI Desktop Assistant is a Python-powered application that automates routine 
 searching the web, sending emails, and performing system operations using voice commands.
 It enhances user productivity by providing a hands-free, efficient, and interactive experience.
 
-🚀 Features
+🚀 **Features**
 
 ✔ Voice Command Execution – Perform system tasks, open apps, and browse the web with voice commands.
 
@@ -20,7 +20,7 @@ It enhances user productivity by providing a hands-free, efficient, and interact
 
 
 
-🛠 Technologies Used
+🛠 **Technologies Used**
 
 Python – Core programming language
 
